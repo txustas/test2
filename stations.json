@@ -1,0 +1,25 @@
+{
+    "stations": [
+        {
+            "url": "https://25603.live.streamtheworld.com/LOS40.mp3",
+            "title": "LOS 40",
+            "name": "LOS 40"
+        },
+        {
+            "url": "https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMTMvMjAyNCAxMDo1Mzo0NyBQTSZoYXNoX3ZhbHVlPUQrWm5aeFZ1YjA4ZXJ0Y1NrNFlCT2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yNTAwNzk2MjY=",
+            "title": "kiss fm",
+            "name": "kiss fm"
+        },
+        {
+            "url": "https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMTMvMjAyNCAxMDo1Mzo1MCBQTSZoYXNoX3ZhbHVlPWw0YkZ5V1EvZXdLeXZuUzc0U2FnK2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yNTAwNzk2MzY=",
+            "title": "hitfm",
+            "name": "hit fm"
+        },
+        {
+            "url": "http://s3.we4stream.com:8045/live",
+            "title": "loca fm",
+            "name": "loca fm"
+        }
+        
+    ]
+}
