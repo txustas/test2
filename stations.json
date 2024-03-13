@@ -19,7 +19,13 @@
             "url": "http://s3.we4stream.com:8045/live",
             "title": "loca fm",
             "name": "loca fm"
+        },
+        {
+            "url": "https://20103.live.streamtheworld.com/LOS40_CLASSIC.mp3",
+            "title": "LOS 40 Classic",
+            "name": "LOS 40 Classic"
         }
+        
         
     ]
 }
